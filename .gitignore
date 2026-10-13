@@ -1,0 +1,8 @@
+*.exe
+*.test
+*.out
+/hw_*/hw_*
+
+.DS_Store
+.idea/
+.vscode/
